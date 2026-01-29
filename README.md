@@ -16,6 +16,8 @@
 🔹 **Languages:** Python, SQL  
 🔹 **Libraries:** Pandas, NumPy, Scikit-learn  
 🔹 **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+🔹 **Deployment:** FastAPI, Streamlit
+🔹 **Visualization:** Matplotlib, Seaborn
 
 ---
 
